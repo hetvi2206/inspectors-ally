@@ -1,0 +1,13 @@
+pillow
+matplotlib
+pandas
+scikit-learn
+scipy
+seaborn
+torchsummary
+urllib3
+torch
+torchvision
+numpy
+streamlit
+opencv-python
